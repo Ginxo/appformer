@@ -14,9 +14,9 @@
 
   <packaging>pom</packaging>
   <modules>
-    <module>uberfire-ssh-api</module>
-    <module>uberfire-ssh-backend</module>
-    <module>uberfire-ssh-client</module>
+    <module>api</module>
+    <module>backend</module>
+    <module>client</module>
   </modules>
 
 

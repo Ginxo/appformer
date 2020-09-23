@@ -18,12 +18,12 @@
   <name>Dashbuilder Project</name>
 
   <modules>
-    <module>dashbuilder-backend</module>
-    <module>dashbuilder-shared</module>
-    <module>dashbuilder-client</module>
-    <module>dashbuilder-packaging</module>
-    <module>dashbuilder-webapp</module>
-    <module>dashbuilder-runtime</module>
+    <module>backend</module>
+    <module>shared</module>
+    <module>client</module>
+    <module>packaging</module>
+    <module>webapp</module>
+    <module>runtime</module>
   </modules>
 
   <profiles>
@@ -35,7 +35,7 @@
         </property>
       </activation>
       <modules>
-        <module>dashbuilder-distros</module>
+        <module>distros</module>
       </modules>
     </profile>
   </profiles>

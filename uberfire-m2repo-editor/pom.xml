@@ -30,8 +30,8 @@
   <name>UberFire - M2_REPO</name>
 
   <modules>
-    <module>uberfire-m2repo-editor-api</module>
-    <module>uberfire-m2repo-editor-client</module>
-    <module>uberfire-m2repo-editor-backend</module>
+    <module>api</module>
+    <module>client</module>
+    <module>backend</module>
   </modules>
 </project>

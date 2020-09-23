@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright 2016 Red Hat, Inc. and/or its affiliates.
+  ~ Copyright 2015 JBoss, by Red Hat, Inc
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -16,21 +16,18 @@
   -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <groupId>org.uberfire</groupId>
-    <artifactId>uberfire-parent</artifactId>
-    <version>7.44.0-SNAPSHOT</version>
-  </parent>
-  <artifactId>uberfire-preferences</artifactId>
-  <packaging>pom</packaging>
-  <name>Uberfire Preferences</name>
-  <description>Uberfire Preferences</description>
-  <modules>
-    <module>api</module>
-    <module>backend</module>
-    <module>client</module>
-    <module>processors</module>
-    <module>client-backend</module>
-  </modules>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.uberfire</groupId>
+        <artifactId>uberfire-widgets</artifactId>
+        <version>7.44.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>uberfire-widgets-service</artifactId>
+    <packaging>pom</packaging>
+    <name>Uberfire Widgets Commons Services</name>
+    <description>Uberfire Widgets Commons Services</description>
+    <modules>
+        <module>api</module>
+        <module>backend</module>
+    </modules>
 </project>

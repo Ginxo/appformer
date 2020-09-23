@@ -30,7 +30,7 @@
   <description>UberFire - Services</description>
 
   <modules>
-    <module>uberfire-services-api</module>
-    <module>uberfire-services-backend</module>
+    <module>api</module>
+    <module>backend</module>
   </modules>
 </project>

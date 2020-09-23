@@ -30,10 +30,10 @@
   <name>UberFire Packaging</name>
 
   <modules>
-    <module>uberfire-client</module>
-    <module>uberfire-client-backend</module>
-    <module>uberfire-client-all</module>
-    <module>uberfire-server-all</module>
-    <module>uberfire-all</module>
+    <module>client</module>
+    <module>client-backend</module>
+    <module>client-all</module>
+    <module>server-all</module>
+    <module>all</module>
   </modules>
 </project>

@@ -30,6 +30,6 @@
   <name>UberFire Archetypes</name>
 
   <modules>
-    <module>uberfire-project-archetype</module>
+    <module>project-archetype</module>
   </modules>
 </project>

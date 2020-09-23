@@ -29,8 +29,8 @@
   <name>UberFire - Structure</name>
 
   <modules>
-    <module>uberfire-structure-api</module>
-    <module>uberfire-structure-client</module>
-    <module>uberfire-structure-backend</module>
+    <module>api</module>
+    <module>client</module>
+    <module>backend</module>
   </modules>
 </project>

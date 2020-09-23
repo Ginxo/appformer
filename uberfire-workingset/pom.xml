@@ -30,7 +30,7 @@
   <description>UberFire - Workingset</description>
 
   <modules>
-    <module>uberfire-workingset-api</module>
-    <module>uberfire-workingset-client</module>
+    <module>api</module>
+    <module>client</module>
   </modules>
 </project>

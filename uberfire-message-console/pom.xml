@@ -16,9 +16,9 @@
   <description>UberFire - Message Console</description>
 
   <modules>
-    <module>uberfire-message-console-api</module>
-    <module>uberfire-message-console-backend</module>
-    <module>uberfire-message-console-client</module>
+    <module>api</module>
+    <module>backend</module>
+    <module>client</module>
   </modules>
 
 </project>

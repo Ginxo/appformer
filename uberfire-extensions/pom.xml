@@ -33,16 +33,16 @@
   <name>Extensions to UberFire</name>
 
   <modules>
-    <module>uberfire-security</module>
-    <module>uberfire-metadata</module>
-    <module>uberfire-widgets</module>
-    <module>uberfire-commons-editor</module>
-    <module>uberfire-preferences-ui-client</module>
-    <module>uberfire-runtime-plugins</module>
-    <module>uberfire-wires</module>
-    <module>uberfire-apps</module>
-    <module>uberfire-layout-editor</module>
-    <module>uberfire-simple-docks</module>
+    <module>security</module>
+    <module>metadata</module>
+    <module>widgets</module>
+    <module>commons-editor</module>
+    <module>preferences-ui-client</module>
+    <module>runtime-plugins</module>
+    <module>wires</module>
+    <module>apps</module>
+    <module>layout-editor</module>
+    <module>simple-docks</module>
   </modules>
 
 </project>

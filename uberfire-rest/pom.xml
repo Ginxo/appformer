@@ -29,8 +29,8 @@
   <name>UberFire - Rest</name>
 
   <modules>
-    <module>uberfire-rest-client</module>
-    <module>uberfire-rest-backend</module>
+    <module>client</module>
+    <module>backend</module>
   </modules>
   
 </project>

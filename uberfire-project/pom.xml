@@ -30,9 +30,9 @@
   <description>UberFire - Project</description>
 
   <modules>
-    <module>uberfire-project-api</module>
-    <module>uberfire-project-backend</module>
-    <module>uberfire-project-builder</module>
-    <module>uberfire-project-client</module>
+    <module>api</module>
+    <module>backend</module>
+    <module>builder</module>
+    <module>client</module>
   </modules>
 </project>

@@ -30,10 +30,10 @@
   <name>UberFire Security</name>
 
   <modules>
-    <module>uberfire-security-api</module>
-    <module>uberfire-security-client</module>
-    <module>uberfire-security-backend</module>
-    <module>uberfire-security-codegen</module>
-    <module>uberfire-security-client-backend</module>
+    <module>api</module>
+    <module>client</module>
+    <module>backend</module>
+    <module>codegen</module>
+    <module>client-backend</module>
   </modules>
 </project>

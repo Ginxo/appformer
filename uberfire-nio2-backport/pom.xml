@@ -30,8 +30,8 @@
   <name>Uberfire NIO.2 Simple Backport</name>
 
   <modules>
-    <module>uberfire-nio2-model</module>
-    <module>uberfire-nio2-impls</module>
-    <module>uberfire-nio2-api</module>
+    <module>model</module>
+    <module>impls</module>
+    <module>api</module>
   </modules>
 </project>
