@@ -115,7 +115,17 @@
               <arguments>run locktt --</arguments>
             </configuration>
           </execution>
-
+          <execution>
+            <id>npm install canvas</id>
+            <phase>initialize</phase>
+            <goals>
+              <goal>npm</goal>
+            </goals>
+            <configuration>
+              <arguments>install canvas --global-style
+                --no-package-lock --no-save</arguments>
+            </configuration>
+          </execution>
           <execution>
             <id>yarn run build:prod</id>
             <goals>
